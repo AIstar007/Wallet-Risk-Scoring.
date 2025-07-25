@@ -76,5 +76,5 @@ The app is deployable via **Streamlit Community Cloud**. See [deployment instruc
 ---
 
 ## **Author**
-Developed as part of the **Wallet Risk Scoring Assignment (Round 2)**.
+Made by Alen Thomas.
 
